@@ -53,7 +53,7 @@ Google spreadsheet link: _________
 | Storage 2 (HDD) | Western Digital Blue 1TB Desktop Hard Disk Drive – WD Blue 7200 RPM SATA 6Gb/s WD10EZEX   | [Datablitz](https://ecommerce.datablitz.com.ph/collections/western-digital-hard-drive/products/wd-blue-1tb-pc-hard-drive-wd10ezex)   | 2495         | SATA port supported                  |
 | GPU             | PowerColor Hellhound AMD Radeon RX 9070 XT 16GB GDDR6 Graphics Card   | [Bermore](https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-hellhound-amd-radeon-rx-9070-xt-16gb-gddr6-graphics-card/)    | 43995         | Requires 2×8-pin PCIe, PSU supports  |
 | PSU             | Corsair RM850X 850w Cybenetics Gold Atx 3.1 Pcie 5.1 Fully Modular Power Supply   | [Bermore](https://bermorzone.com.ph/shop/power-sources/power-supply-unit/corsair-rm850x-850w-cybenetics-gold-atx-3-1-pcie-5-1-fully-modular-power-supply/)   | 8150         | 650W, 80+ Bronze                     |
-| Case            | Lian Li Lancool 207 Compact ATX PC Case – Black | White (Black Option)   | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-207-compact-atx-pc-case/)    | 4699         | ATX Mid-Tower                        |
+| Case            | Lian Li Lancool 207 Compact ATX PC Case – Black | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-207-compact-atx-pc-case/)   | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-207-compact-atx-pc-case/)    | 4699         | ATX Mid-Tower                        |
 | Case Fans       | Included   | [Bermore](link)    | N/A         | 120mm, 3-pin                         |
 | **Total**       |       |                    | **99869 Php** | Within budget                        |
 

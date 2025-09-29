@@ -27,7 +27,6 @@ PCPartPicker Permalink: [PC PartPicker](https://pcpartpicker.com/list/JynRcx)
 | CPU             | 	AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor   | 	$358.49             | ...   |
 | CPU Cooler      | 	ARCTIC Liquid Freezer III Pro A-RGB 77 CFM Liquid CPU Cooler   | 	$83.49             | ...   |
 | Motherboard     | 	MSI PRO B650M-B Micro ATX AM5 Motherboard   | No Prices
-Available             | ...   |
 | RAM             | TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory  |$89.99             | ...   |
 | Storage 1       | 	Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | $89.99            | ...   |
 | Storage 2       | 	Western Digital WD Blue 1 TB 3.5" 5400 RPM Internal Hard Drive   | $44.99             | ...   |

@@ -1,19 +1,23 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 4
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S18  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- Karl Matthew Dela Cruz
+- Jose Miguel Espinosa 
+- Bon Windel Aquino  
+- Joshua Domanais 
+- Franz Andrick Colobong 
 
 ---
 
 ## 1. Introduction
 Briefly describe your project build (1–2 paragraphs).  
 Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
+
+This PC Build project is a custom desktop PC build that was focused on high performance and long term sustainability in mind. This PC build is packed with the top latest performing technological components made to easily do any task in mind. This PC targets those Users that would play a lot of high definition games and want a reliable and beautiful setup for their gametime. Not just that this PC with such power in hand could reliably handle all the tasks needed even for future games. 
+
+This PC Build is also perfect for those that have a budget of 100k and wants that investment for performance. Our team ensured that we would stay in budget of 100k. With that in mind we also ensured that even though we had a budget constraint we still sourced and looked for trusted brands and stores. To add to that our Parts are locally sourced inside Metro Manila so if you wanna buy it for yourself the stores linked have them in stock ready for you. 
 
 ---
 
@@ -90,4 +94,5 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 

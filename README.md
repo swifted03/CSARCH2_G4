@@ -67,7 +67,6 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 - **SSD**: Supported by the motherboard’s three M.2 slots, with PCIe 5.0 x4 (M.2_1) and PCIe 4.0 x4/x2 (M.2_2 & M.2_3) depending on CPU and slot.
 - **HDD**: Supported by the motherboard’s SATA 6Gb/s ports (4 available).
 - **GPU**: AMD RX 9070 XT (340mm x 142mm x 49mm (size with bracket)) fits inside the Lian Li Lancool 217 case (max GPU length clearance of 380mm). PSU wattage sufficient.
-- 
 
 ---
 
@@ -93,6 +92,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

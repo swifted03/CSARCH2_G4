@@ -19,22 +19,22 @@ Mention: target use case (e.g., general-purpose desktop, gaming, programming, da
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: _________
+PCPartPicker Permalink: [PC PartPicker](https://pcpartpicker.com/list/JynRcx)
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
-| Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| CPU             | 	AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor   | 	$358.49             | ...   |
+| CPU Cooler      | 	ARCTIC Liquid Freezer III Pro A-RGB 77 CFM Liquid CPU Cooler   | 	$83.49             | ...   |
+| Motherboard     | 	MSI PRO B650M-B Micro ATX AM5 Motherboard   | No Prices
+| RAM             | TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory  |$89.99             | ...   |
+| Storage 1       | 	Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | $89.99            | ...   |
+| Storage 2       | 	Western Digital WD Blue 1 TB 3.5" 5400 RPM Internal Hard Drive   | $44.99             | ...   |
+| Graphics Card   | 	PowerColor Hellhound OC Radeon RX 9070 XT 16 GB Video Card   | $769.99             | ...   |
+| Power Supply    | 		Corsair RM850x (2024) 850 W Fully Modular ATX Power Supply  | $81.99            | ...   |
+| Case            | 		Lian Li Lancool 207 ATX Mid Tower Case   | $129.99             | ...   |
+| Case Fans       | Included   | N/A             | ...   |
+| **Total**       |       | **$1648.92**     |       |
 
 ---
 
@@ -45,17 +45,17 @@ Google spreadsheet link: _________
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | ...   | [PC Express](link) | ...         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ...   | [VillMan](link)    | ...         | Fits case clearance                  |
-| Motherboard     | ...   | [PC Express](link) | ...         | Supports DDR5 RAM                    |
-| RAM             | ...   | [PC Express](link) | ...         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | ...   | [PC Express](link) | ...         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | ...   | [PVillMan](link)   | ...         | SATA port supported                  |
-| GPU             | ...   | [VillMan](link)    | ...         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | ...   | [PVillMan](link)   | ...         | 650W, 80+ Bronze                     |
-| Case            | ...   | [VillMan](link)    | ...         | ATX Mid-Tower                        |
-| Case Fans       | ...   | [VillMan](link)    | ...         | 120mm, 3-pin                         |
-| **Total**       |       |                    | **XXX Php** | Within budget                        |
+| CPU             | AMD Ryzen 7 7800X3D 4.2GHz Up to 5.0GHz Socket AM5 Processor 100-100000910WOF (No Retail Box Option)   | [Bermore](https://bermorzone.com.ph/shop/processors/amd-processors/amd-ryzen-7-7800x3d-4-2ghz-up-to-5-0ghz-socket-am5-processor-100-100000910wof/) | 18995         | Socket LGA1700 compatible with B760M |
+| CPU Cooler      | ARCTIC Liquid Freezer III Pro 240 A-RGB Multi Compatible AIO Liquid Cooling System – Black |  [iTech](https://www.itech.ph/product/arctic-liquid-freezer-iii-pro-240-multi-compatible-aio-cpu-water-cooler/)   |  4895    | Fits case clearance         |                |
+| Motherboard     | MSI PRO B650M-B Ryzen 7000 Series AM5 Micro ATX Motherboard   | [Bermore](https://bermorzone.com.ph/shop/motherboard/amd-motherboards/msi-pro-b650m-b-ryzen-7000-series-am5-micro-atx-motherboard/) | 6295         | Supports DDR5 RAM                    |
+| RAM             | TeamGroup T-Create Expert DDR5 32GB 2 x 16GB 6000Mhz CL38 Intel XMP/AMD EXPO Desktop Memory (Black Option)   | [Bermore](https://bermorzone.com.ph/shop/memory-modules/desktop-memory/teamgroup-t-create-expert-ddr5-32gb-2-x-16gb-6000mhz-cl48-intel-xmp-amd-expo-desktop-memory/) | 4995         | DDR5-5200 CL40, 2x8GB                |
+| Storage 1 (SSD) | Samsung 990 PRO M.2 1TB PCIe Gen 4.0 x4, NVMe 2.0 V7 V-NAND 3bit MLC Internal Solid State Drive (SSD) MZ-V9P1T0BW   | [Datablitz](https://ecommerce.datablitz.com.ph/products/samsung-990-pro-1tb-pcie-4-0-nvme-m-2-ssd-mz-v9p1t0bw) | 5350         | NVMe M.2 slot supported              |
+| Storage 2 (HDD) | Western Digital Blue 1TB Desktop Hard Disk Drive – WD Blue 7200 RPM SATA 6Gb/s WD10EZEX   | [Datablitz](https://ecommerce.datablitz.com.ph/collections/western-digital-hard-drive/products/wd-blue-1tb-pc-hard-drive-wd10ezex)   | 2495         | SATA port supported                  |
+| GPU             | PowerColor Hellhound AMD Radeon RX 9070 XT 16GB GDDR6 Graphics Card   | [Bermore](https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-hellhound-amd-radeon-rx-9070-xt-16gb-gddr6-graphics-card/)    | 43995         | Requires 2×8-pin PCIe, PSU supports  |
+| PSU             | Corsair RM850X 850w Cybenetics Gold Atx 3.1 Pcie 5.1 Fully Modular Power Supply   | [Bermore](https://bermorzone.com.ph/shop/power-sources/power-supply-unit/corsair-rm850x-850w-cybenetics-gold-atx-3-1-pcie-5-1-fully-modular-power-supply/)   | 8150         | 650W, 80+ Bronze                     |
+| Case            | Lian Li Lancool 207 Compact ATX PC Case – Black | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-207-compact-atx-pc-case/)   | 4699    | ATX Mid-Towe        | r                        |
+| Case Fans       | Included   | [Bermore](link)    | N/A         | 120mm, 3-pin                         |
+| **Total**       |       |                    | **99869 Php** | Within budget                        |
 
 ---
 

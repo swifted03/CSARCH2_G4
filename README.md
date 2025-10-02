@@ -74,7 +74,7 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 - **Budget Limit**: ₱105,000  
 - **Final Total**: ₱104,510  
 - ✅ Within budget
-- Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+- Notes on trade-offs:
   - Settled for a high-quality air cooler (Thermalright Peerless Assassin) instead of an AIO liquid cooler to save budget for a better motherboard, while still maintaining sufficient cooling for the 7800X3D.
   - Chose a budget-friendly but reliable 32GB DDR5-6000 CL36 kit (G.Skill Flare X5) instead of a faster one. This saved money for other components while still providing dual-channel bandwidth and sufficient RAM capacity for heavy tasks.
   - Settled for 1TB NVMe SSD + 1TB HDD instead of higher-capacity drives (e.g., 2TB NVMe or larger HDD) to save budget for other high-priority components.
@@ -94,9 +94,15 @@ Reflections on:
 - Your video link here  
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
+- [Bermore Techzone](https://bermorzone.com.ph/)
+- [Dynaquest](https://dynaquestpc.com/)
+- [EasyPC](https://easypc.com.ph/collections/laptops)
+- [PCHub](https://www.pchubonline.com/)
+- [PC PartPicker](https://pcpartpicker.com/list/KM2KwY)
+- [Ryzen 7 7800X3D Specifications](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html#product-specs)
+- [MSI PRO B850M-P WIFI Specifications](https://www.msi.com/Motherboard/PRO-B850M-P-WIFI/Specification)
+- [Lian Li Lancool 217 Specifications](https://lian-li.com/product/lancool-217/)
+
 
 
 

@@ -61,9 +61,7 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 ---
 
 ## 4. Compatibility Justification
-For each part, explain compatibility and choices.  
-Example:  
-- **CPU + Motherboard**: Intel i5-13400F (LGA1700) works with ASUS B760M board (LGA1700 socket, BIOS compatible).  
+- **CPU + Motherboard**: AMD Ryzen 7 7800X3D (AM5) works with MSI PRO B850M-P WIFI board (AM5 socket, BIOS compatible).  
 - **RAM**: DDR5 RAM supported by motherboard slots (up to 128GB).  
 - **GPU**: NVIDIA RTX 3060 fits case, PSU wattage sufficient.  
 
@@ -91,6 +89,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

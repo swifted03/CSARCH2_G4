@@ -95,13 +95,14 @@ Reflections on:
 
 ## 8. References
 - [Bermore Techzone](https://bermorzone.com.ph/)
-- [Dynaquest](https://dynaquestpc.com/)
+- [DynaQuest PC](https://dynaquestpc.com/)
 - [EasyPC](https://easypc.com.ph/collections/laptops)
 - [PCHub](https://www.pchubonline.com/)
 - [PC PartPicker](https://pcpartpicker.com/list/KM2KwY)
 - [Ryzen 7 7800X3D Specifications](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html#product-specs)
 - [MSI PRO B850M-P WIFI Specifications](https://www.msi.com/Motherboard/PRO-B850M-P-WIFI/Specification)
 - [Lian Li Lancool 217 Specifications](https://lian-li.com/product/lancool-217/)
+
 
 
 

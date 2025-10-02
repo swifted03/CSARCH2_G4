@@ -71,10 +71,15 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 ---
 
 ## 5. Budget Analysis
-- **Budget Limit**: ₱XX,000  
-- **Final Total**: ₱XX,000  
-- ✅ Within budget / ❌ Over budget  
+- **Budget Limit**: ₱105,000  
+- **Final Total**: ₱104,510  
+- ✅ Within budget
 - Notes on trade-offs (e.g., cheaper RAM, higher PSU wattage, no aftermarket cooler, etc.).
+  - Settled for a high-quality air cooler (Thermalright Peerless Assassin) instead of an AIO liquid cooler to save budget for a better motherboard, while still maintaining sufficient cooling for the 7800X3D.
+  - Chose a budget-friendly but reliable 32GB DDR5-6000 CL36 kit (G.Skill Flare X5) instead of a faster one. This saved money for other components while still providing dual-channel bandwidth and sufficient RAM capacity for heavy tasks.
+  - Settled for 1TB NVMe SSD + 1TB HDD instead of higher-capacity drives (e.g., 2TB NVMe or larger HDD) to save budget for other high-priority components.
+  - Exhibited maximum budget allocation for CPU (Ryzen 7 7800X3D) and GPU (RX 9070 XT) to maximize raw performance.
+  - Made the motherboard (MSI PRO B850M-P WIFI), PSU (Corsair RM850X 850w), and case (Lian Li Lancool 217) second priorities in the budget to accommodate premium features, endurance, and aesthetics.
 
 ---
 
@@ -92,6 +97,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

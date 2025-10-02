@@ -46,7 +46,7 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | AMD Ryzen 7 7800X3D 4.2GHz Up to 5.0GHz Socket AM5 Processor 100-100000910WOF **(No Retail Box Option)**   | [Bermore](https://bermorzone.com.ph/shop/processors/amd-processors/amd-ryzen-7-7800x3d-4-2ghz-up-to-5-0ghz-socket-am5-processor-100-100000910wof/) | 18950         | Socket LGA1700 compatible with B760M |
+| CPU             | AMD Ryzen 7 7800X3D 4.2GHz Up to 5.0GHz Socket AM5 Processor 100-100000910WOF **(No Retail Box Option)**   | [Bermore](https://bermorzone.com.ph/shop/processors/amd-processors/amd-ryzen-7-7800x3d-4-2ghz-up-to-5-0ghz-socket-am5-processor-100-100000910wof/) | 18950         | Socket AM5 compatible with B850 MOBO |
 | CPU Cooler      | Thermalright Peerless Assassin 120 SE Black Dual Tower CPU Air Cooler |  [Bermore](https://bermorzone.com.ph/shop/cooling-systems/aircooling-system/thermalright-peerless-assassin-120-se-black-dual-tower-cpu-air-cooler/)   |  1950    | Fits case clearance         |                |
 | Motherboard     | MSI PRO B850M-P WIFI PCIe 5.0 DDR5 Wi-Fi 7 5G LAN AM5 mATX Motherboard   | [Bermore](https://bermorzone.com.ph/shop/motherboard/amd-motherboards/msi-pro-b850m-p-wifi-pcie-5-0-ddr5-wi-fi-7-5g-lan-am5-matx-motherboard/) | 10595        | Supports DDR5 RAM                    |
 | RAM             | Gskill Flare X5 32GB 2x16GB DDR5 6000 CL36 AMD EXPO Desktop Memory F5-6000J3636F16GX2-FX5   | [Bermore](https://bermorzone.com.ph/shop/memory-modules/desktop-memory/gskill-flare-x5-32gb-2x16gb-ddr5-6000-cl36-amd-expo-desktop-memory-f5-6000j3636f16gx2-fx5/) | 5995         | DDR5-6000 CL36, 2x16GB                |
@@ -91,6 +91,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

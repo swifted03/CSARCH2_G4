@@ -64,7 +64,7 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 - **CPU + Motherboard**: AMD Ryzen 7 7800X3D (AM5) works with MSI PRO B850M-P WIFI board (AM5 socket, BIOS compatible).
 - **CPU Cooler**: Thermalright Peerless Assassin 120 SE (L125 × W110 × H155 mm (size)) fits inside the Lian Li LANCOOL 217 case (max CPU height clearance of 180mm).  
 - **RAM**: DDR5 RAM supported by motherboard slots (up to 256GB). Rated 6000 MT/s requires enabling AMD EXPO in BIOS for full speed.
-- **SSD**: Supported by the motherboard’s three M.2 slots, with PCIe 5.0 x4 (M.2_1) and PCIe 4.0 x4/x2 (M.2_2 & M.2_3) depending on CPU and slot.
+- **SSD**: Supported by the motherboard’s three M.2 slots, with PCIe 5.0 x4 (M.2_1) and PCIe 4.0 x4/x2 (M.2_2 & M.2_3).
 - **HDD**: Supported by the motherboard’s SATA 6Gb/s ports (4 available).
 - **GPU**: AMD RX 9070 XT (340mm x 142mm x 49mm (size with bracket)) fits inside the Lian Li LANCOOL 217 case (max GPU length clearance of 380mm). PSU wattage sufficient.
 
@@ -106,6 +106,7 @@ This case study was very insightful and fun for the entire group. Theorizing PC 
 - [Ryzen 7 7800X3D Specifications](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html#product-specs)
 - [MSI PRO B850M-P WIFI Specifications](https://www.msi.com/Motherboard/PRO-B850M-P-WIFI/Specification)
 - [Lian Li LANCOOL 217 Specifications](https://lian-li.com/product/lancool-217/)
+
 
 
 

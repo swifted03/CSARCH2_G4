@@ -84,10 +84,12 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 ---
 
 ## 6. Conclusion & Learnings
-Reflections on:  
-- Price differences (international vs. Manila vendors)  
-- Challenges in finding stock or cheaper equivalents  
-- What the group learned about PC components and system design  
+
+Throughout this case study, our group learned a lot about the various components of a computer and how they interact and depend on each other. Dependencies and interconnectedness are crucial aspects in PC building. It takes domain knowledge in computer hardware to ensure that components seamlessly work together, such as CPU socket types, memory standards, power requirements, and interface types like PCIe and SATA. While initially daunting, information about these topics is readily available online for any beginner PC builder to digest. 
+
+We learned the importance of balancing performance, budget, and future-proofing, where trade-offs come into play. Regarding raw performance, the CPU and GPU are the most instrumental components affecting computational power. We learned that prioritizing these components above everything is key to building a powerful computer. Aside from that, we also learned that we cannot cheap out on the other components that the CPU and GPU depend on, specifically the PSU and motherboard. The PSU is critical as a low-quality power supply can easily damage the high-end components. A PSU should inherently be reliable, so investing in a fully-modular, gold-certified one is the bare minimum for an expensive system like this. Moreover, the motherboard has its voltage regulator modules (VRMs) that manage power delivery to the other components, so investing in a decent motherboard is also important. Components generally not critical to system performance are the case, cooling, RAM, and storage, where it is easier to budget components as needed. 
+
+With this, trade-offs are not only affected by the parts themselves, as they are subject to the components' availability from local distributors. Throughout this case study, we experienced challenges in finding cheap and available stock from reputable sellers. We overcame this by working together to scour the internet for more reputable vendors to add to our canvassing list. Additionally, international vs local pricing was also a challenge, as GPUs are especially expensive in the current market, so finding an RX 9070 XT for close to MSRP was tough. Overall, this case study was insightful and fun for the entire group. Theorizing PC builds with our budget was a nice activity to get exposed to the current tech landscape, as more and more advancements to computer hardware come into place.
 
 ---
 ## 7. Video pitch
@@ -102,6 +104,7 @@ Reflections on:
 - [Ryzen 7 7800X3D Specifications](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html#product-specs)
 - [MSI PRO B850M-P WIFI Specifications](https://www.msi.com/Motherboard/PRO-B850M-P-WIFI/Specification)
 - [Lian Li LANCOOL 217 Specifications](https://lian-li.com/product/lancool-217/)
+
 
 
 

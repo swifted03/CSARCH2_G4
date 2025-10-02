@@ -30,7 +30,7 @@ PCPartPicker Permalink: [PC PartPicker](https://pcpartpicker.com/list/KM2KwY)
 | Motherboard     | 	MSI PRO B850M-P WIFI Micro ATX AM5 Motherboard   | $154.00
 | RAM             | G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory  |$99.99             | ...   |
 | Storage 1       | 	Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | $89.99            | ...   |
-| Storage 2       | 	Western Digital WD Blue 1 TB 3.5" 5400 RPM Internal Hard Drive   | $40.00            | ...   |
+| Storage 2       | 	Western Digital Caviar Blue 1 TB 3.5" 7200 RPM Internal Hard Drive   | $40.00            | ...   |
 | Graphics Card   | 	PowerColor Hellhound OC Radeon RX 9070 XT 16 GB Video Card   | $769.99             | ...   |
 | Power Supply    | 		Corsair RM850x (2024) 850 W Fully Modular ATX Power Supply  | $119.99            | ...   |
 | Case            | 		Lian Li LANCOOL 217 ATX Mid Tower Case   | $119.99             | ...   |
@@ -91,6 +91,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

@@ -23,22 +23,22 @@ This PC Build is also perfect for those that have a budget of 100k and wants tha
 
 ## 2. Draft Build (PCPartPicker)
 This build uses **PCPartPicker System Builder** for compatibility check. 
-PCPartPicker Permalink: [PC PartPicker](https://pcpartpicker.com/list/JynRcx)
+PCPartPicker Permalink: [PC PartPicker](https://pcpartpicker.com/list/KM2KwY)
 
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | 	AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor   | 	$358.49             | ...   |
-| CPU Cooler      | 	ARCTIC Liquid Freezer III Pro A-RGB 77 CFM Liquid CPU Cooler   | 	$83.49             | ...   |
-| Motherboard     | 	MSI PRO B650M-B Micro ATX AM5 Motherboard   | No Prices
-| RAM             | TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory  |$89.99             | ...   |
+| CPU             | 	AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor   | 	$359.00             | ...   |
+| CPU Cooler      | 	Thermalright Peerless Assassin 120 SE 66.17 CFM CPU Cooler   | 	$34.90             | ...   |
+| Motherboard     | 	MSI PRO B850M-P WIFI Micro ATX AM5 Motherboard   | $154.00
+| RAM             | G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory  |$99.99             | ...   |
 | Storage 1       | 	Samsung 990 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive   | $89.99            | ...   |
-| Storage 2       | 	Western Digital WD Blue 1 TB 3.5" 5400 RPM Internal Hard Drive   | $44.99             | ...   |
+| Storage 2       | 	Western Digital WD Blue 1 TB 3.5" 5400 RPM Internal Hard Drive   | $40.00            | ...   |
 | Graphics Card   | 	PowerColor Hellhound OC Radeon RX 9070 XT 16 GB Video Card   | $769.99             | ...   |
-| Power Supply    | 		Corsair RM850x (2024) 850 W Fully Modular ATX Power Supply  | $81.99            | ...   |
-| Case            | 		Lian Li Lancool 207 ATX Mid Tower Case   | $129.99             | ...   |
+| Power Supply    | 		Corsair RM850x (2024) 850 W Fully Modular ATX Power Supply  | $119.99            | ...   |
+| Case            | 		Lian Li LANCOOL 217 ATX Mid Tower Case   | $119.99             | ...   |
 | Case Fans       | Included   | N/A             | ...   |
-| **Total**       |       | **$1648.92**     |       |
+| **Total**       |       | **$1787.85**     |       |
 
 ---
 
@@ -94,6 +94,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

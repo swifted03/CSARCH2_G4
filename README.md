@@ -55,7 +55,7 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 | GPU             | PowerColor Hellhound AMD Radeon RX 9070 XT 16GB GDDR6 Graphics Card   | [Bermore](https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-hellhound-amd-radeon-rx-9070-xt-16gb-gddr6-graphics-card/)    | 43795         | Requires 2×8-pin PCIe, PSU supports  |
 | PSU             | Corsair RM850X 850w Cybenetics Gold Atx 3.1 Pcie 5.1 Fully Modular Power Supply   | [Bermore](https://bermorzone.com.ph/shop/power-sources/power-supply-unit/corsair-rm850x-850w-cybenetics-gold-atx-3-1-pcie-5-1-fully-modular-power-supply/)   | 8150         | 650W, 80+ Bronze                     |
 | Case            | Lian Li Lancool 217 Mid-Tower E-ATX Chassis – **Black** | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-217-mid-tower-e-atx-chassis-black-white/)   | 6800    | ATX Mid-Tower        |                         |
-| Case Fans       | Included with the Case   |     | N/A         | 120mm, 3-pin                         |
+| Case Fans       | Included with the Case   |     | N/A         | N/A                         |
 | **Total**       |       |                    | **104,510 Php** | Within budget (+5% allowance)                        |
 
 ---
@@ -91,6 +91,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

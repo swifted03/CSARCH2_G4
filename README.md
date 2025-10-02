@@ -54,7 +54,7 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 | Storage 2 (HDD) | Western Digital Blue 1TB Desktop Hard Disk Drive – WD Blue 7200 RPM SATA 6Gb/s WD10EZEX   | [Bermore](https://bermorzone.com.ph/shop/storage-devices/hard-drives/wd-blue-1tb-desktop-hard-disk-drive-7200-rpm-sata-6gbs/)   | 2795         | SATA port supported                  |
 | GPU             | PowerColor Hellhound AMD Radeon RX 9070 XT 16GB GDDR6 Graphics Card   | [Bermore](https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-hellhound-amd-radeon-rx-9070-xt-16gb-gddr6-graphics-card/)    | 43795         | Requires 2×8-pin PCIe, PSU supports, Fits case clearance  |
 | PSU             | Corsair RM850X 850w Cybenetics Gold Atx 3.1 Pcie 5.1 Fully Modular Power Supply   | [Bermore](https://bermorzone.com.ph/shop/power-sources/power-supply-unit/corsair-rm850x-850w-cybenetics-gold-atx-3-1-pcie-5-1-fully-modular-power-supply/)   | 8150         | 850W, Fully modular, ATX 3.1 compliant, Cybenetics Gold-certified                    |
-| Case            | Lian Li Lancool 217 Mid-Tower E-ATX Chassis – **Black** | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-217-mid-tower-e-atx-chassis-black-white/)   | 6800    | ATX Mid-Tower        |                         |
+| Case            | Lian Li LANCOOL 217 Mid-Tower E-ATX Chassis – **Black** | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-217-mid-tower-e-atx-chassis-black-white/)   | 6800    | ATX Mid-Tower        |                         |
 | Case Fans       | Included with the Case   |     | N/A         | N/A                         |
 | **Total**       |       |                    | **104,510 Php** | Within budget (+5% allowance)                        |
 
@@ -62,11 +62,11 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 
 ## 4. Compatibility Justification
 - **CPU + Motherboard**: AMD Ryzen 7 7800X3D (AM5) works with MSI PRO B850M-P WIFI board (AM5 socket, BIOS compatible).
-- **CPU Cooler**: Thermalright Peerless Assassin 120 SE (L125 × W110 × H155 mm (size)) fits inside the Lian Li Lancool 217 case (max CPU height clearance of 180mm).  
+- **CPU Cooler**: Thermalright Peerless Assassin 120 SE (L125 × W110 × H155 mm (size)) fits inside the Lian Li LANCOOL 217 case (max CPU height clearance of 180mm).  
 - **RAM**: DDR5 RAM supported by motherboard slots (up to 256GB). Rated 6000 MT/s requires enabling AMD EXPO in BIOS for full speed.
 - **SSD**: Supported by the motherboard’s three M.2 slots, with PCIe 5.0 x4 (M.2_1) and PCIe 4.0 x4/x2 (M.2_2 & M.2_3) depending on CPU and slot.
 - **HDD**: Supported by the motherboard’s SATA 6Gb/s ports (4 available).
-- **GPU**: AMD RX 9070 XT (340mm x 142mm x 49mm (size with bracket)) fits inside the Lian Li Lancool 217 case (max GPU length clearance of 380mm). PSU wattage sufficient.
+- **GPU**: AMD RX 9070 XT (340mm x 142mm x 49mm (size with bracket)) fits inside the Lian Li LANCOOL 217 case (max GPU length clearance of 380mm). PSU wattage sufficient.
 
 ---
 
@@ -79,7 +79,7 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
   - Chose a budget-friendly but reliable 32GB DDR5-6000 CL36 kit (G.Skill Flare X5) instead of a faster one. This saved money for other components while still providing dual-channel bandwidth and sufficient RAM capacity for heavy tasks.
   - Settled for 1TB NVMe SSD + 1TB HDD instead of higher-capacity drives (e.g., 2TB NVMe or larger HDD) to save budget for other high-priority components.
   - Exhibited maximum budget allocation for CPU (Ryzen 7 7800X3D) and GPU (RX 9070 XT) to maximize raw performance.
-  - Made the motherboard (MSI PRO B850M-P WIFI), PSU (Corsair RM850X 850w), and case (Lian Li Lancool 217) second priorities in the budget to accommodate premium features, endurance, and aesthetics.
+  - Made the motherboard (MSI PRO B850M-P WIFI), PSU (Corsair RM850X 850w), and case (Lian Li LANCOOL 217) second priorities in the budget to accommodate premium features, endurance, and aesthetics.
 
 ---
 
@@ -101,7 +101,8 @@ Reflections on:
 - [PC PartPicker](https://pcpartpicker.com/list/KM2KwY)
 - [Ryzen 7 7800X3D Specifications](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html#product-specs)
 - [MSI PRO B850M-P WIFI Specifications](https://www.msi.com/Motherboard/PRO-B850M-P-WIFI/Specification)
-- [Lian Li Lancool 217 Specifications](https://lian-li.com/product/lancool-217/)
+- [Lian Li LANCOOL 217 Specifications](https://lian-li.com/product/lancool-217/)
+
 
 
 

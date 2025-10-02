@@ -12,12 +12,11 @@
 ---
 
 ## 1. Introduction
-Briefly describe your project build (1–2 paragraphs).  
-Mention: target use case (e.g., general-purpose desktop, gaming, programming, data science, etc.) and budget constraint.
+Per the course deliverables for CSARCH2, case study project #1 is about constructing a custom desktop PC build based on the given specifications about the budget and expected system performance. Our build expects high performance at 1440p, and solid performance at 4K, even in the most demanding AAA title games. Our build should also be future-proof for at least four years. This PC build is packed with the latest high-end components that synchronize well with each other, delivering the optimal performance for the price. This PC build targets users who play demanding AAA titles, such as Elden Ring, Cyberpunk 2077, and Clair Obscur Expedition 33, who want to maximize their gaming experience with stunning visuals while not compromising FPS. The build is also suitable for productivity work, such as 3D Modelling, Data Science, and AI model training.
 
-This PC Build project is a custom desktop PC build that was focused on high performance and long term sustainability in mind. This PC build is packed with the top latest performing technological components made to easily do any task in mind. This PC targets those Users that would play a lot of high definition games and want a reliable and beautiful setup for their gametime. Not just that this PC with such power in hand could reliably handle all the tasks needed even for future games. 
+This PC build incorporates a budget of 100,000 pesos with an allowance of an extra 5%, which makes the budget constraint at a maximum of 105,000 pesos. Our group ensured that we would stay within the budget by scavenging through various reputable local suppliers such as Bermore Techzone, Dynaquest, EasyPC, and many more. Lastly, these stores are in Metro Manila, with the stock and prices subject to day-to-day change. With that, the prices stated here reflect those before the project deadline and were readily available.
 
-This PC Build is also perfect for those that have a budget of 100k and wants that investment for performance. Our team ensured that we would stay in budget of 100k. With that in mind we also ensured that even though we had a budget constraint we still sourced and looked for trusted brands and stores. To add to that our Parts are locally sourced inside Metro Manila so if you wanna buy it for yourself the stores linked have them in stock ready for you. 
+
 
 ---
 
@@ -94,6 +93,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

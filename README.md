@@ -53,7 +53,7 @@ Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/
 | Storage 1 (SSD) | Samsung 990 PRO M.2 1TB PCIe Gen 4.0 x4, NVMe 2.0 V7 V-NAND 3bit MLC Internal Solid State Drive (SSD) MZ-V9P1T0BW   | [Dynaquest](https://dynaquestpc.com/products/samsung-990-pro-m-2-1tb-pcie-gen-4-0-x4-nvme-2-0-v7-v-nand-3bit-mlc-internal-solid-state-drive-ssd-mz-v9p1t0bw) | 5480         | NVMe M.2 slot supported              |
 | Storage 2 (HDD) | Western Digital Blue 1TB Desktop Hard Disk Drive – WD Blue 7200 RPM SATA 6Gb/s WD10EZEX   | [Bermore](https://bermorzone.com.ph/shop/storage-devices/hard-drives/wd-blue-1tb-desktop-hard-disk-drive-7200-rpm-sata-6gbs/)   | 2795         | SATA port supported                  |
 | GPU             | PowerColor Hellhound AMD Radeon RX 9070 XT 16GB GDDR6 Graphics Card   | [Bermore](https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-hellhound-amd-radeon-rx-9070-xt-16gb-gddr6-graphics-card/)    | 43795         | Requires 2×8-pin PCIe, PSU supports  |
-| PSU             | Corsair RM850X 850w Cybenetics Gold Atx 3.1 Pcie 5.1 Fully Modular Power Supply   | [Bermore](https://bermorzone.com.ph/shop/power-sources/power-supply-unit/corsair-rm850x-850w-cybenetics-gold-atx-3-1-pcie-5-1-fully-modular-power-supply/)   | 8150         | 650W, 80+ Bronze                     |
+| PSU             | Corsair RM850X 850w Cybenetics Gold Atx 3.1 Pcie 5.1 Fully Modular Power Supply   | [Bermore](https://bermorzone.com.ph/shop/power-sources/power-supply-unit/corsair-rm850x-850w-cybenetics-gold-atx-3-1-pcie-5-1-fully-modular-power-supply/)   | 8150         | 850W, ATX 3.1 Gold-certified                     |
 | Case            | Lian Li Lancool 217 Mid-Tower E-ATX Chassis – **Black** | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-217-mid-tower-e-atx-chassis-black-white/)   | 6800    | ATX Mid-Tower        |                         |
 | Case Fans       | Included with the Case   |     | N/A         | N/A                         |
 | **Total**       |       |                    | **104,510 Php** | Within budget (+5% allowance)                        |
@@ -91,6 +91,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

@@ -35,7 +35,7 @@ PCPartPicker Permalink: [PC PartPicker](https://pcpartpicker.com/list/KM2KwY)
 | Power Supply    | 		Corsair RM850x (2024) 850 W Fully Modular ATX Power Supply  | $119.99            | ...   |
 | Case            | 		Lian Li LANCOOL 217 ATX Mid Tower Case   | $119.99             | ...   |
 | Case Fans       | Included   | N/A             | ...   |
-| **Total**       |       | **$1787.85**     |       |
+| **Total**       |       | **$1827.85**     |       |
 
 ---
 
@@ -91,6 +91,7 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 
 

@@ -44,22 +44,22 @@ PCPartPicker Permalink: [PC PartPicker](https://pcpartpicker.com/list/JynRcx)
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________  
+Google spreadsheet link: [Google Sheets](https://docs.google.com/spreadsheets/d/1nR_gwWSbjfNSSoHWIPwT2JS8w2K-dfVhFiaoMqit5gw/edit?usp=sharing)  
 
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
 |-----------------|-------|--------------------|-------------|--------------------------------------|
-| CPU             | AMD Ryzen 7 7800X3D 4.2GHz Up to 5.0GHz Socket AM5 Processor 100-100000910WOF (No Retail Box Option)   | [Bermore](https://bermorzone.com.ph/shop/processors/amd-processors/amd-ryzen-7-7800x3d-4-2ghz-up-to-5-0ghz-socket-am5-processor-100-100000910wof/) | 18995         | Socket LGA1700 compatible with B760M |
-| CPU Cooler      | ARCTIC Liquid Freezer III Pro 240 A-RGB Multi Compatible AIO Liquid Cooling System – Black |  [iTech](https://www.itech.ph/product/arctic-liquid-freezer-iii-pro-240-multi-compatible-aio-cpu-water-cooler/)   |  4895    | Fits case clearance         |                |
-| Motherboard     | MSI PRO B650M-B Ryzen 7000 Series AM5 Micro ATX Motherboard   | [Bermore](https://bermorzone.com.ph/shop/motherboard/amd-motherboards/msi-pro-b650m-b-ryzen-7000-series-am5-micro-atx-motherboard/) | 6295         | Supports DDR5 RAM                    |
-| RAM             | TeamGroup T-Create Expert DDR5 32GB 2 x 16GB 6000Mhz CL38 Intel XMP/AMD EXPO Desktop Memory (Black Option)   | [Bermore](https://bermorzone.com.ph/shop/memory-modules/desktop-memory/teamgroup-t-create-expert-ddr5-32gb-2-x-16gb-6000mhz-cl48-intel-xmp-amd-expo-desktop-memory/) | 4995         | DDR5-5200 CL40, 2x8GB                |
-| Storage 1 (SSD) | Samsung 990 PRO M.2 1TB PCIe Gen 4.0 x4, NVMe 2.0 V7 V-NAND 3bit MLC Internal Solid State Drive (SSD) MZ-V9P1T0BW   | [Datablitz](https://ecommerce.datablitz.com.ph/products/samsung-990-pro-1tb-pcie-4-0-nvme-m-2-ssd-mz-v9p1t0bw) | 5350         | NVMe M.2 slot supported              |
-| Storage 2 (HDD) | Western Digital Blue 1TB Desktop Hard Disk Drive – WD Blue 7200 RPM SATA 6Gb/s WD10EZEX   | [Datablitz](https://ecommerce.datablitz.com.ph/collections/western-digital-hard-drive/products/wd-blue-1tb-pc-hard-drive-wd10ezex)   | 2495         | SATA port supported                  |
-| GPU             | PowerColor Hellhound AMD Radeon RX 9070 XT 16GB GDDR6 Graphics Card   | [Bermore](https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-hellhound-amd-radeon-rx-9070-xt-16gb-gddr6-graphics-card/)    | 43995         | Requires 2×8-pin PCIe, PSU supports  |
+| CPU             | AMD Ryzen 7 7800X3D 4.2GHz Up to 5.0GHz Socket AM5 Processor 100-100000910WOF (No Retail Box Option)   | [Bermore](https://bermorzone.com.ph/shop/processors/amd-processors/amd-ryzen-7-7800x3d-4-2ghz-up-to-5-0ghz-socket-am5-processor-100-100000910wof/) | 18950         | Socket LGA1700 compatible with B760M |
+| CPU Cooler      | Thermalright Peerless Assassin 120 SE Black Dual Tower CPU Air Cooler |  [Bermore](https://bermorzone.com.ph/shop/cooling-systems/aircooling-system/thermalright-peerless-assassin-120-se-black-dual-tower-cpu-air-cooler/)   |  1950    | Fits case clearance         |                |
+| Motherboard     | MSI PRO B850M-P WIFI PCIe 5.0 DDR5 Wi-Fi 7 5G LAN AM5 mATX Motherboard   | [Bermore](https://bermorzone.com.ph/shop/motherboard/amd-motherboards/msi-pro-b850m-p-wifi-pcie-5-0-ddr5-wi-fi-7-5g-lan-am5-matx-motherboard/) | 10595        | Supports DDR5 RAM                    |
+| RAM             | Gskill Flare X5 32GB 2x16GB DDR5 6000 CL36 AMD EXPO Desktop Memory F5-6000J3636F16GX2-FX5   | [Bermore](https://bermorzone.com.ph/shop/memory-modules/desktop-memory/gskill-flare-x5-32gb-2x16gb-ddr5-6000-cl36-amd-expo-desktop-memory-f5-6000j3636f16gx2-fx5/) | 5995         | DDR5-6000 CL36, 2x16GB                |
+| Storage 1 (SSD) | Samsung 990 PRO M.2 1TB PCIe Gen 4.0 x4, NVMe 2.0 V7 V-NAND 3bit MLC Internal Solid State Drive (SSD) MZ-V9P1T0BW   | [Dynaquest](https://dynaquestpc.com/products/samsung-990-pro-m-2-1tb-pcie-gen-4-0-x4-nvme-2-0-v7-v-nand-3bit-mlc-internal-solid-state-drive-ssd-mz-v9p1t0bw) | 5480         | NVMe M.2 slot supported              |
+| Storage 2 (HDD) | Western Digital Blue 1TB Desktop Hard Disk Drive – WD Blue 7200 RPM SATA 6Gb/s WD10EZEX   | [Bermore](https://bermorzone.com.ph/shop/storage-devices/hard-drives/wd-blue-1tb-desktop-hard-disk-drive-7200-rpm-sata-6gbs/)   | 2795         | SATA port supported                  |
+| GPU             | PowerColor Hellhound AMD Radeon RX 9070 XT 16GB GDDR6 Graphics Card   | [Bermore](https://bermorzone.com.ph/shop/video-cards/amd-video-cards/powercolor-hellhound-amd-radeon-rx-9070-xt-16gb-gddr6-graphics-card/)    | 43795         | Requires 2×8-pin PCIe, PSU supports  |
 | PSU             | Corsair RM850X 850w Cybenetics Gold Atx 3.1 Pcie 5.1 Fully Modular Power Supply   | [Bermore](https://bermorzone.com.ph/shop/power-sources/power-supply-unit/corsair-rm850x-850w-cybenetics-gold-atx-3-1-pcie-5-1-fully-modular-power-supply/)   | 8150         | 650W, 80+ Bronze                     |
-| Case            | Lian Li Lancool 207 Compact ATX PC Case – Black | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-207-compact-atx-pc-case/)   | 4699    | ATX Mid-Towe        | r                        |
+| Case            | Lian Li Lancool 217 Mid-Tower E-ATX Chassis – Black | [Bermore](https://bermorzone.com.ph/shop/chassis/lian-li-lancool-217-mid-tower-e-atx-chassis-black-white/)   | 6800    | ATX Mid-Tower        |                         |
 | Case Fans       | Included   | [Bermore](link)    | N/A         | 120mm, 3-pin                         |
-| **Total**       |       |                    | **99869 Php** | Within budget                        |
+| **Total**       |       |                    | **104,510 Php** | Within budget (+5% allowance)                        |
 
 ---
 
@@ -94,5 +94,6 @@ Reflections on:
 - Vendor links (PCX, VillMan, etc.)  
 - PCPartPicker build link  
 - Any technical documentation consulted  
+
 
 

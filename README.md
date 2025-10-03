@@ -95,7 +95,7 @@ This case study was very insightful and fun for the entire group. Theorizing PC 
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- [CSARCH2 MCO1 Group4 S18](https://youtu.be/oAYjxh3fpnk)
 
 ## 8. References
 - [Bermore Techzone](https://bermorzone.com.ph/)
@@ -106,6 +106,7 @@ This case study was very insightful and fun for the entire group. Theorizing PC 
 - [Ryzen 7 7800X3D Specifications](https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html#product-specs)
 - [MSI PRO B850M-P WIFI Specifications](https://www.msi.com/Motherboard/PRO-B850M-P-WIFI/Specification)
 - [Lian Li LANCOOL 217 Specifications](https://lian-li.com/product/lancool-217/)
+
 
 
 
